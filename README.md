@@ -1,2 +1,2 @@
 # Baloot-Calculator:
-Android App used by "Baloot" players to caculate their score after every turn.
+Android App helps "Baloot" players to caculate score's game
